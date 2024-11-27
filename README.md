@@ -35,7 +35,8 @@ Below is the list of 15 applications analyzed in this project:
 9. Dateability - A dating app specifically for individuals with disabilities.
 10. CoughDrop - An augmentative and alternative communication (AAC) app for individuals with speech difficulties.
 11. FuelService - An app that helps users find and request fuel assistance.
-12. ShelterApp - An app that provides information on shelters and resources for individuals experiencing homelessness.
+12. ShelterApp - An app that provides information on shelters and resources for individuals experiencing 
+                 homelessness.
 13. Wheelmap - An app that offers information on wheelchair-accessible places.
 14. WheelTrans - An app for scheduling and managing accessible transportation services.
 15. Avaz AAC - A communication app for individuals with speech impairments, using pictures and text. 
@@ -44,7 +45,7 @@ Below is the list of 15 applications analyzed in this project:
 
 ## Analysis Types
 ### Static Analysis
-- **Tools Used: [MobSF (Mobile Security Framework), Exodus Privacy Checker]
+- **Tools Used: MobSF (Mobile Security Framework), Exodus Privacy Checker
 - **Focus Areas**:  
   - Identifying bugs and vulnerabilities.
   - Permission analysis and potential misuse.
@@ -52,7 +53,7 @@ Below is the list of 15 applications analyzed in this project:
   - Encryption methods and secure data storage practices. 
 
 ### Dynamic Analysis
-- **Tools Used**: [MobSF]
+- **Tools Used**: MobSF
 - **Focus Areas**:  
   - Analyzing network communication and data transmission security.
   - Identifying runtime vulnerabilities and insecure configurations.
