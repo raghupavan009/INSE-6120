@@ -45,7 +45,7 @@ Below is the list of 15 applications analyzed in this project:
 
 ## Analysis Types
 ### Static Analysis
-- **Tools Used: MobSF (Mobile Security Framework), Exodus Privacy Checker
+- **Tools Used**: MobSF (Mobile Security Framework), Exodus Privacy Checker
 - **Focus Areas**:  
   - Identifying bugs and vulnerabilities.
   - Permission analysis and potential misuse.
