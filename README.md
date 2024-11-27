@@ -9,8 +9,6 @@ This repository contains static and dynamic analysis reports for 15 applications
 - [About the Project](#about-the-project)
 - [Applications Analyzed](#applications-analyzed)
 - [Analysis Types](#analysis-types)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
